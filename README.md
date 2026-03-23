@@ -1,4 +1,4 @@
-# Digital Image Processing – Assignment- 1 
+# Digital Image Processing – Assignment No. 1 
 
 This repository contains  implementation of **basic image enhancement techniques** using Python, OpenCV, NumPy, and Matplotlib.  
 The code is written in a Jupyter Notebook and demonstrates how different transformations affect an image.  
